@@ -98,4 +98,4 @@ Richmond Gafah
 
 Data Analytics Intern – Decode Labs
 
-GitHub: https://github.com/richmondgafah64
+GitHub: https://github.com/richmondgafah64-commits/DecodeLabs-Internship
